@@ -1,0 +1,49 @@
+---
+title: "ClassSchedule"
+author: "Xijia Luo"
+date: "9/17/2019"
+output: html_document
+---
+
+# Class Schedule
+WF : 2:40pm - 3:20pm
+MWF: 8:00pm - 8:50pm
+MWF: 11:15pm - 12:05pm
+
+
+### PSU 016: First-Year Seminar
+
+This class is a chance for first-year students to get acclamated to college life.  Each department at Penn State has their own section(s) of PSU 016, so students can take the class with other first-year students in their major.  I enjoy teaching the first-year seminar because it's a great opportunity to me to get to know the new class of Statistics Majors!  This year I'm trying something different by assigning the book "How Not to Be Wrong" by Jordan Ellenberg.  It's a really great book about how I think statisticians/mathematicians see the world differently from most other people.  I hope the class actually enjoys it.
+
+For some reason I admit that I was a little surprised to find a Wikipedia page about first-year seminar classes at American Universities, but  [here's the link](https://en.wikipedia.org/wiki/The_First_Year_Experience_Program)!  The page doesn't currently have a picture, so a classic Penn State picture of Old Main seems as fitting as anything else.
+
+![](http://www.amesphotos.com/psu/old_main_penn_state.jpg)
+
+### STAT 184:Introduction to R programming
+
+Stat184 is a compulsory course for all statistics majors students in psu. This class is also a prerequesite class of STAT380 which is another compulsory course for all statistics majors students in psu. I applied for double major in stat last semester so that I have to take this course.
+
+A link to class:
+https://mdbeckman.github.io/PSU-STAT-184/
+
+![](https://www.rstudio.com/wp-content/uploads/2019/05/rstudio-og-fb.jpg)
+
+### STAT 461: Anly of Variance
+
+As a stat major student, I need several 400level stat course. Since I have already take stat462 and stat463, I would like to take stat461 as well. These three courses are related to Rstudio which I think that will really help me in my future job experience. 
+
+A link to class:
+https://onlinecourses.science.psu.edu/statprogram/stat461
+
+![](https://newonlinecourses.science.psu.edu/statprogram/sites/statprogram/files/2019-06/1280_0X5jKBKL9o.jpg)
+
+### Econ 304: Inmd Macroec Analysis
+
+A appliance stat major student also require another major or minor besides math. I have already taken econ102&106 through ap exam before i came to PSU and I only need to take econ302&304 andextra two 400level econ courses in order to get a econ minor. Thus, I choose to have a econ minor. Econ304 is thecompulsory course for econ minor students.
+
+A link to class:
+http://www.personal.psu.edu/rxc122/econ304.htm
+
+![](http://www.personal.psu.edu/faculty/r/x/rxc122/inside_boardroom.JPG)
+
+
